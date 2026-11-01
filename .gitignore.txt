@@ -1,17 +1,17 @@
 # Unreal Engine: generated project files
-/Binaries/
-/DerivedDataCache/
-/Intermediate/
-/Saved/
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
 
 # Generated files inside plugins
 /Plugins/**/Intermediate/
 /Plugins/**/DerivedDataCache/
 
 # IDE local files
-/.vs/
-/.idea/
-/.vscode/
+.vs/
+.idea/
+.vscode/
 
 # Generated IDE projects
 *.sln
