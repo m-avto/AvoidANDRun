@@ -1,9 +1,9 @@
-<!-- Game name: AVOID AND RUN --> -->
-<!-- Unreal Engine version: 5.7 -->
-<!-- Controls:
-Movement is AWSD; Shift = sprint; Space = Jump; Ctrl = Dash; -->
-<!-- For launching game download an archive containing game build and run an AvoidANDRun.exe -->
-<!-- Blueprints and their purpose:
+Game name: AVOID AND RUN
+Unreal Engine version: 5.7
+Controls:
+Movement is AWSD; Shift = sprint; Space = Jump; Ctrl = Dash; 
+For launching game download an archive containing game build and run an AvoidANDRun.exe 
+Blueprints and their purpose:
 BP_MainChar; Purpose: regulation of events + self-explanatory
 BP_Enemy; Purpose:self-explanatory, just a model wiwh collision
 BP_GMBase - game mode; Purpose: calculate current score, calculate and save best score
@@ -45,4 +45,4 @@ Known bugs:
 Alarm sound of chase start repeats during the chase, I decided not to fix it, because it's only making sound better
 What I learned and what was hard
 Learned: Global illumination on cinematic setting has a terrible optimization
-What was hard: nothing-->
+What was hard: nothing
